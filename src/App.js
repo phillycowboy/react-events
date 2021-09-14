@@ -1,10 +1,12 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
+import WiseSquare from './WiseSquare';
 
 function App() {
   return (
     <div className="App">
-        hello there! 
+        <h1>React Events!</h1>
+        <WiseSquare />
     </div>
   );
 }

@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+	text-align: center;
 }
 
 /* .App-logo {
@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 } */
+.WiseSquare {
+	background-color: purple;
+  margin-right: 600px;
+  margin-left: 600px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 75px;
+  border-radius: 5px;
+}
+.WiseSquare:hover {
+	background-color: green;
+}
+.WiseSquare emoji {
+  font-size: 200px;
+}
